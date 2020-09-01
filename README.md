@@ -5,4 +5,4 @@
 
 #### 🔭 I’m currently working as a Telecommunication Engineer
 
-#### 📫 Please, contact me at: higor.asilverio@hotmail.com / +55 (19) 9 8346 4642
+#### 📫 Please, contact me at: higor.asilverio_eng@hotmail.com / +55 (19) 9 8346 4642
