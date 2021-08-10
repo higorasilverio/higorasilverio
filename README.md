@@ -1,8 +1,17 @@
-## Hi there 👋
+## Yaehllooaw 👋
 
+If you're seeing this, there are a few things you should know about me:
 
-#### 🌱 I’m currently learning/working with full-stack development, specially focused on VueJs. I also studing/working with back-end technologies, such as Java, MySQL, PHP and AWS.
+> #### I'm a code lover so I'll love to cooperate in your project!!! :heart: 
+> #### To me, it is all about writing beautiful, useful, and well structured code. 
+> #### I live in Brazil... most specifically in Minas Gerais state (the most beautiful state in the world). But I do love to travel em meet people, cultures, foods... almost as much as I love to learn new stuff!!!
 
-#### 🔭 Company: [Filóo Saúde](https://filoo.com.br/ "Filóo's Homepage")
+##### If you enjoy my code, or if you just want to be in touch, feel free to use my email or phone below. Also, you are more than welcome to visit my social networks:
 
-#### 📫 Please, contact me at: higor.asilverio_eng@hotmail.com / +55 (19) 9 8346 4642
+:call_me_hand: +55 (19) 9 8346 4642
+
+:mailbox: higor.asilverio_eng@hotmail.com
+
+:construction_worker: https://www.linkedin.com/in/higorsilverio/
+
+:man_cartwheeling: https://www.instagram.com/higor.asilverio/
