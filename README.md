@@ -1,4 +1,4 @@
-## Yaehllooaw 👋
+## Yaehloowa 👋
 
 If you're seeing this, there are a few things you should know about me:
 
