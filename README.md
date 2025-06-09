@@ -11,7 +11,7 @@ I'm a frontend-focused Software Engineer with 6+ years of experience building sc
 - **Languages**: JavaScript, TypeScript, SQL
 - **Libraries/Frameworks**: React, NextJS, Node, Express, NestJS
 - **Styling**: Tailwind CSS, Styled-components, CSS Modules, Material UI
-- **Cloud & DevOps**: AWS (Lambda, S3, EC2), Firebase, Vercel, GCP
+- **Cloud & DevOps**: AWS (Lambda, S3, EC2, RDS, DynamoDB, CloudWatch, IAM), Firebase, Vercel, GCP
 - **Testing**: Jest, React Testing Library, Cypress, Playwright
 
 ## 💡 Areas of Interest
