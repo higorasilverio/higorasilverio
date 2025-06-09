@@ -3,7 +3,7 @@
 I'm a frontend-focused Software Engineer with 6+ years of experience building scalable, modern web applications using **React**, **NextJS**, **Node**, and **TypeScript**.
 
 🚀 I love creating clean, accessible UIs and turning complex problems into elegant solutions.  
-💻 I also work comfortably with RESTful APIs and cloud infrastructure, building robust full-stack solutions that are production-ready and performance-driven.
+💻 I also work comfortably with RESTful APIs and cloud infrastructure, building robust full-stack solutions that are production-ready and performance-driven.  
 ☁️ Currently deepening my skills in **cloud computing**, working toward AWS certifications.  
 
 ## 🛠️ Tech I Like Working With
