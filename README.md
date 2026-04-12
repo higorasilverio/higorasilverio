@@ -2,9 +2,9 @@
 
 I'm a **full-stack, cloud-focused Software Engineer** with **7+ years of experience** building scalable web applications and cloud-native systems using **React**, **Next.js**, **Node.js**, and **TypeScript**.
 
-☁️ **AWS Certified Cloud Practitioner**, currently deepening my expertise in cloud-native and distributed systems.
-🚀 I love creating clean, accessible UIs and turning complex problems into elegant solutions.  
-💻 I build production-ready full-stack applications, integrating robust APIs and cloud infrastructure.  
+☁️ **AWS Certified Cloud Practitioner**, currently deepening my expertise in cloud-native and distributed systems.<br/>
+🚀 I love creating clean, accessible UIs and turning complex problems into elegant solutions.<br/>
+💻 I build production-ready full-stack applications, integrating robust APIs and cloud infrastructure.
 
 ## 🛠️ Tech I Like Working With
 
