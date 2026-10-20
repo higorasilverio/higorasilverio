@@ -24,13 +24,7 @@ I'm a **full-stack, cloud-focused Software Engineer** with **7+ years of experie
 - ✅ Testing & code quality (unit, integration, E2E)  
 - ♿ Accessibility-first interfaces  
 - 🎯 Product development & user experience enhancement  
-- 🔌 API integration and backend-for-frontend patterns  
-
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/higorasilverio)  
-- 🌐 [Instagram](https://instagram.com/higorasilverio)  
-- 💻 Portfolio (coming soon...)  
+- 🔌 API integration and backend-for-frontend patterns
 
 ---
 
